@@ -2,7 +2,7 @@
 > use rm at ease!  
 
 Don't talk, show me the effect picture:  
-[trm](http://os6prdnzj.bkt.clouddn.com/github/md/rm1.JPG)
+![trm](http://os6prdnzj.bkt.clouddn.com/github/md/rm1.JPG)
 
 With some easy settings, you can use the command `rm` at ease:  
 
