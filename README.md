@@ -16,4 +16,10 @@ Then, when you remove a file, it will be moved into the folder `$HOME/.trash`. N
 sh -c "$(wget --no-check-certificate https://raw.githubusercontent.com/lcalca1/trm/master/install_trm.sh -O -)"
 ```
 
+or
+
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/lcalca1/trm/master/install_trm.sh)"
+```
+
 After that if it still doesn't work, try `source $HOME"/."${SHELL##*/}"rc"`.
