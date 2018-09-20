@@ -1,6 +1,9 @@
 # temp rm
 > use rm at ease!  
 
+Don't talk, show me the effect picture:  
+[trm](http://os6prdnzj.bkt.clouddn.com/github/md/rm1.JPG)
+
 With some easy settings, you can use the command `rm` at ease:  
 
     1. First, copy the file 'remove.sh' into your folder which pathinfo is $DIR ( e.g. '~/shell/' ).
