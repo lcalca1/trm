@@ -1,5 +1,6 @@
 # temp rm
-> use rm at ease!
+> use rm at ease!  
+
 With some easy settings, you can use the command `rm` at ease:
     1. First, copy the file 'remove.sh' into your folder which pathinfo is $DIR ( e.g. '~/shell/' ).
     2. Open the file `~/.bashrc` or `~/.zshrc` or other one and add `alias rm='sh ~/shell/remove.sh'` in the end. If you don't know which shell is in use, try `echo $SHELL`.
